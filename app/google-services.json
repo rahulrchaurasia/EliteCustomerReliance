@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "176590553733",
+    "firebase_url": "https://elitecustomerreliance.firebaseio.com",
+    "project_id": "elitecustomerreliance",
+    "storage_bucket": "elitecustomerreliance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176590553733:android:d5a2836fbb6a868a",
+        "android_client_info": {
+          "package_name": "com.rb.eliterl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176590553733-5g25hb39qvcv2tl3cq4hlj6rmfihtq05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQLCmNf-V50_138BQSUFVyb6QiEYOBu8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176590553733-5g25hb39qvcv2tl3cq4hlj6rmfihtq05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
